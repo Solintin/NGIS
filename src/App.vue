@@ -4,8 +4,5 @@
   </div>
 </template>
 <style>
-html {
-  scroll-behavior: smooth;
-  overflow-x: hidden;
-}
+
 </style>
