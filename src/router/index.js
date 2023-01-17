@@ -1,5 +1,5 @@
 /* eslint-disable */
-import Vue from "vue";
+/* import Vue from "vue";
 import VueRouter from "vue-router";
 import Home from "@/views";
 import About from "@/views/about/";
@@ -8,6 +8,7 @@ import Services from "@/views/services/";
 Vue.use(VueRouter);
 
 const routes = [
+  
   {
     path: "/",
     name: "Home",
@@ -32,3 +33,4 @@ const router = new VueRouter({
 });
 
 export default router;
+ */
